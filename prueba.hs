@@ -5,3 +5,5 @@ peras = 7 +3 -1
 cadena1 = "Hola soy una cadena"
 cadena2 = "o no"
 cadena = cadena1 ++ " " ++ cadena2
+
+numeroalgo = succ 7
