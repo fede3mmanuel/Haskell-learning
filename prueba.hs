@@ -29,3 +29,15 @@ divisible x y = if x `mod` y == 0 then
         "no Divisivles"
 
 otracosa x = "Usted envio "++(show x)
+
+
+lista1 = [4, 5, 7.2, 8]
+lista2 = [3, 1]
+lista3 = ["peras", "manzanas", "uvas"]
+lista4 = ['a', 'c', 'x', 't']
+
+lista5 = lista1++lista2
+
+unelemento = lista1!!2
+
+lista6 = [[1, 2], [3, 4]]
