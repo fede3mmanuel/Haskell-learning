@@ -41,3 +41,23 @@ lista5 = lista1++lista2
 unelemento = lista1!!2
 
 lista6 = [[1, 2], [3, 4]]
+
+longitud6 = length lista6
+
+primerolissta6 = head lista6
+
+ultimolista6 = last lista6
+
+colalista6 = tail lista6
+
+initlista3 = init lista3
+
+revestlista2 = reverse lista2
+
+tomarlista5 = take 3 lista5
+
+droplista5 = drop 2 lista5
+
+menorlista1 = minimum lista1
+
+maximolista1 = maximum lista1
