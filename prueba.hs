@@ -61,3 +61,10 @@ droplista5 = drop 2 lista5
 menorlista1 = minimum lista1
 
 maximolista1 = maximum lista1
+
+sumalista1 = sum lista1
+
+productolista1 = product lista1
+
+existealgo = 4 `elem` lista1
+
