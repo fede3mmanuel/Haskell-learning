@@ -68,3 +68,23 @@ productolista1 = product lista1
 
 existealgo = 4 `elem` lista1
 
+lista1a9 = [1 .. 100]
+
+lista9a37 = [9 .. 37]
+
+lista0a100en2 = [0,2 .. 100]
+
+lista2a100en2 = [ 2,4 .. 100 ]
+
+primenumbers = [ 1,7 .. 100]
+
+lista50a1 = [ 50,49 .. 1 ]
+
+lista50a1en2 = [ 50,48 .. 1 ]
+
+caracterrange = [ 'a' .. 'z']
+
+x = 5
+y = 10
+
+listaxy = [ x .. y ]
