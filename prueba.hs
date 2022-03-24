@@ -88,3 +88,13 @@ x = 5
 y = 10
 
 listaxy = [ x .. y ]
+
+lista17repeat = repeat 7
+
+lista100veces7 = take 100 ( repeat 7 )
+
+listarangocycle = take 25 ( cycle [ 1 .. 10 ] )
+
+listareplicate580 = replicate 5 80
+
+listareplicate =  replicate 5 [1,2,3]
