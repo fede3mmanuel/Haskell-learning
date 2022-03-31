@@ -98,3 +98,9 @@ listarangocycle = take 25 ( cycle [ 1 .. 10 ] )
 listareplicate580 = replicate 5 80
 
 listareplicate =  replicate 5 [1,2,3]
+
+cl19 = [ x | x<-[1 .. 20], x `mod` 2 == 1 ]
+
+cl1100 = [ x | x<-[1 .. 100], (x >= 1 && x <= 40) || ( x >= 70 && x <= 99) ]
+cl21 = [ x^2 | x<-[1 .. 10], x `mod` 2 == 0 ]
+cl22 = [ x^2 | x<-[1 .. 10] ]
